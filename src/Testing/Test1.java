@@ -3,8 +3,6 @@ package Testing;
 public class Test1 {
 
 	public static void main(String[] args) {
-		System.out.println("Master Branch");
-		System.out.println("Navjot branch");
-
+		System.out.println("I have created one more conflict");
 	}
 }
