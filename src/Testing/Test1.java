@@ -3,7 +3,7 @@ package Testing;
 public class Test1 {
 
 	public static void main(String[] args) {
-		System.out.println("This is Master Branch");
+		System.out.println("This is Navjot's Branch");
 	}
 
 }
