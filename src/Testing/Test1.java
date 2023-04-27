@@ -3,6 +3,6 @@ package Testing;
 public class Test1 {
 
 	public static void main(String[] args) {
-		System.out.println("I am making changes in Navjot also");
+		System.out.println("Conflict resolved");
 	}
 }
